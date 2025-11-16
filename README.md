@@ -2,17 +2,6 @@
 
 This repository contains the term paper project for the Department of Computer Science Engineering at The LNM Institute of Information Technology (LNMIIT). The project, "Querying Climate Knowledge," focuses on addressing the challenges of unstructured climate data by applying Semantic Web technologies to build a Knowledge Graph (KG) and enable semantic retrieval.
 
-## Project Aim
-
-The primary goal of this project is to move beyond simple keyword-based search of climate information. We apply knowledge management methods to a large corpus of unstructured text (from Reddit) to:
-
-1.  **Extract** key concepts, entities, and terms related to climate change.
-2.  **Identify** the semantic relationships and triples connecting these concepts.
-3.  **Construct** a Knowledge Graph (KG) to serve as a structured representation of the domain.
-4.  **Enable** semantic querying and retrieval to facilitate structured analysis and discovery.
-
-![Project concept word clouds](image_abe7c8.png)
-
 ## Team & Institution
 
 * **Team 17:**
